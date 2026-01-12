@@ -38,6 +38,11 @@ The goal of this analysis is to identify when and why traffic stops are most lik
 - Lower traffic density at night increases the likelihood of individual vehicles being singled out for enforcement.
 - Stop frequency varies across observable driver and vehicle attributes, with higher counts among commonly represented vehicle categories, reflecting exposure rather than elevated risk.
 
+## Practical Implications
+- Drivers may benefit from increased caution during late night hours when enforcement visibility is higher.
+- Drivers benefit from geographic clustering where traffic reports are most frequent.
+- Insurers and risk analysts can incorporate time of day patterns into behavioral risk assessments.
+
 ## Dashboard & Visualizations
 An interactive Power BI dashboard was created to visualize:
 - Hourly distribution of traffic stops
@@ -51,6 +56,7 @@ The dashboard is designed to support quick exploration of enforcement patterns a
 
 ## Limitations & Assumptions
 - The dataset is limited to a single county in Maryland and may not generalize to other regions.
+- A small portion of records (<1%) contain invalid or mislocated geographic coordinates, likely due to data entry or geocoding errors.
 - Around 50% of the stop reasons and 14% of car makes could not be accurately mapped.
 - Traffic volume data was not directly available; conclusions are based on stop frequency patterns.
 - Enforcement practices may vary over time due to policy or staffing changes.
