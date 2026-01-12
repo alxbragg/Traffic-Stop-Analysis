@@ -1,4 +1,4 @@
-## Traffic Stop Analysis - Driver Risk & Enforcement Patterns
+# Traffic Stop Analysis - Driver Risk & Enforcement Patterns
 
 This project analyzes over 2 million traffic stop records from a single county in Maryland to identify patterns in enforcement behavior, driver risk, and temporal trends. 
 Using Python, SQL, and Power BI, the analysis focuses on when and why traffic stops are most likely to occur, translating raw public data into actionable insights.
@@ -21,3 +21,25 @@ Using Python, SQL, and Power BI, the analysis focuses on when and why traffic st
 - Python (pandas & numpy)
 - SQL (PostgreSQL)
 - Power BI
+
+### Objective
+The goal of this analysis is to identify when and why traffic stops are most likely to occur, and to translate enforcement data into insights that can support driver awareness, risk assessment, and policy evaluation.
+
+## Key Insights
+- Traffic stops peak disproportionately during late-night hours (10–11 PM), despite lower overall traffic volume.
+- Speeding is the most common reason for traffic stops across all time periods.
+- Lower traffic density at night increases the likelihood of individual vehicles being singled out for enforcement.
+
+### Dashboard & Visualizations
+An interactive Power BI dashboard was created to visualize:
+- Hourly distribution of traffic stops
+- Violation type breakdowns
+- Geographic concentration of stops
+
+The dashboard is designed to support quick exploration of enforcement patterns and time-based risk.
+
+### Limitations & Assumptions
+- The dataset is limited to a single county in Maryland and may not generalize to other regions.
+- Around 50% of the stop reasons and 14% of car makes could not be accurately mapped.
+- Traffic volume data was not directly available; conclusions are based on stop frequency patterns.
+- Enforcement practices may vary over time due to policy or staffing changes.
