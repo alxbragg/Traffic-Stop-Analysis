@@ -62,11 +62,11 @@ The dashboard is designed to support quick exploration of enforcement patterns a
 - Enforcement practices may vary over time due to policy or staffing changes.
 
 ## Recommendations
-- **Evaluate late night patrol allocation against safety outcomes**
+- **Evaluate late night patrol allocation against safety outcomes**:
   Traffic stops peak between 10–11 PM despite lower traffic volume; comparing enforcement intensity with crash and DUI incident data could determine whether late night staffing aligns with actual risk reduction.
-- **Incorporate time of day as a contextual feature in behavioral risk models**
+- **Incorporate time of day as a contextual feature in behavioral risk models**:
   Late night driving exposure could be weighted as one input among many in insurer or fleet risk models, alongside objective behaviors such as speeding and trip frequency.
-- **Improve data entry standardization to strengthen enforcement analytics**
+- **Improve data entry standardization to strengthen enforcement analytics**:
   High rates of unmapped stop reasons and vehicle makes limit interpretability; structured input fields would enable more reliable policy evaluation and trend analysis.
 
 ## Future Improvements
