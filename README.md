@@ -12,6 +12,11 @@ This analysis examines approximately more than **2.0 million** traffic stop reco
 - Scope: Montgomery county (Maryland)
 
 ## Data & Preparations
+<p align="center">
+  <img src="path/to/images/Screenshot 2026-01-14 144320.png" width="45%" />
+  <img src="path/to/images/Screenshot 2026-01-14 144336.png" width="45%" />
+</p>
+
 - Normalizing vehicle make values
 - Parsing description to map reason for stop
 - Parsing and standardizing date/time fields
