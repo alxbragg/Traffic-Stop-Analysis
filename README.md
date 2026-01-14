@@ -11,7 +11,7 @@ This analysis examines approximately more than **2.0 million** traffic stop reco
 - Records: ~2.0 million
 - Scope: Montgomery county (Maryland)
 
-## Key Preparations
+## Data & Preparations
 - Normalizing vehicle make values
 - Parsing description to map reason for stop
 - Parsing and standardizing date/time fields
@@ -29,9 +29,6 @@ This analysis examines approximately more than **2.0 million** traffic stop reco
 - Which violations most commonly lead to traffic stops?
 - How do enforcement patterns differ during low traffic hours?
 - Are late night stops disproportionately frequent relative to traffic volume?
-
-## Objective
-The goal of this analysis is to identify when and why traffic stops are most likely to occur, and to translate enforcement data into insights that can support risk assessment, policy evaluation and enforcement allocation.
 
 ## Key Insights
 - Traffic stops peak disproportionately during late night hours (10–11 PM), despite lower overall traffic volume.
