@@ -15,6 +15,9 @@ This analysis examines approximately more than **2.0 million** traffic stop reco
 
 <p align="center">
   <img src="images/scheme1.png" width="45%" />
+</p>
+
+<p align="center">
   <img src="images/scheme2.png" width="45%" />
 </p>
 
