@@ -41,6 +41,7 @@ The goal of this analysis is to identify when and why traffic stops are most lik
 <p align="center">
   <img src="images/speeding_time_chart.png" alt="Speeding Chart" width="500">
 </p>
+
 - Lower nighttime traffic density increases enforcement selectivity, making individual vehicles more likely to be singled out for stops compared to daytime conditions with higher traffic volume.
 - Observed differences in stop frequency across driver and vehicle characteristics largely reflect exposure effects rather than elevated risk.
   - Vehicle types and driver groups that appear more frequently in stop data are also those more commonly present on the road, suggesting proportional enforcement rather than targeted disparities.
